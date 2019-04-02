@@ -194,6 +194,6 @@ li:hover {
         
     }
     [dir="rtl"]{
-        line-height: 1em;
+        line-height: 0.9em;
     }
 }
