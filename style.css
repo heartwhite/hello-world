@@ -183,6 +183,11 @@ li:hover {
     section .grid-item:nth-child(1) img{max-height: 90%; width: auto;}
     
     li:hover {transform: scale(1.05);}
+    
+    header{        
+        height: 20vh;
+        padding-top: 5vh;margin-bottom: 25px;  
+    }
 }
 
 @media all and (max-width: 440px) and (min-width: 50px){
