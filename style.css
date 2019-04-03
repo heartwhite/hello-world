@@ -182,7 +182,9 @@ li:hover {
 
     section .grid-item:nth-child(1) img{max-height: 90%; width: auto;}
 
-    p[dir="rtl"]{line-height: 0.9em;}   
+    /*p[dir="rtl"]{line-height: 0.9em;}   */
     
     li:hover {transform: scale(1.05);}
+    
+    
 }
